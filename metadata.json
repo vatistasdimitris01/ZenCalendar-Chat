@@ -1,0 +1,6 @@
+{
+  "name": "ZenCalendar Chat",
+  "description": "A focused calendar assistant that connects to your Google Calendar for seamless scheduling and chat-based event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
